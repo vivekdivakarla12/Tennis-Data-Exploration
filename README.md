@@ -1,4 +1,3 @@
-<img width="1052" alt="Screenshot 2024-01-02 at 11 50 03 AM" src="https://github.com/vivekdivakarla12/Tennis-Data-Exploration/assets/11672096/cf1cd77c-e37d-4bd4-92dc-f03fee4e0388">
 ## Tennis Data Exploration, part 1
 
 ### Introduction
@@ -21,6 +20,10 @@ When looking at the end of the 2023 tennis season, it is interesting to view how
   
 Overall, I believe these stories showcase the way the ATP rankings work, and how players of different backgrounds are able to rise in the rankings in many different ways. These three stories are just the surface, and there are many stories of players rising and falling through the rankings.
 
-### First/Second serve statistics for top 11 players
 
 ![Screenshot 2023-12-31 at 6 50 35 PM](https://github.com/vivekdivakarla12/Tennis-Data-Exploration/assets/11672096/047a4ff7-b5da-4a81-8c10-683ad4f08f0a)
+
+### First/Second serve statistics for top 11 players
+
+<img width="1052" alt="Screenshot 2024-01-02 at 11 50 03 AM" src="https://github.com/vivekdivakarla12/Tennis-Data-Exploration/assets/11672096/cf1cd77c-e37d-4bd4-92dc-f03fee4e0388">
+
