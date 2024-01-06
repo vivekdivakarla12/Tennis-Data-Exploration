@@ -40,10 +40,12 @@ After viewing the data for all matches, I chose to split the data into three sec
 
 <img width="799" alt="Screenshot 2024-01-06 at 3 53 07 PM" src="https://github.com/vivekdivakarla12/Tennis-Data-Exploration/assets/11672096/0a35913b-4427-4aa7-a55c-3add633187c6">
 
-CLAY
+Compared to hard courts, it was interesting to note that the first serve points won% has a higher correlation on clay courts, while second serve points won% had a lower correlation. However, ace% is much lower, despite the fact that aces are points won on a player's first serve. Clay is typically a slower surface than hard courts so it makes sense for ace% to be lower, but I would also have expected first serve points won% to have a lower correlation. 
 
 <img width="795" alt="Screenshot 2024-01-06 at 3 57 33 PM" src="https://github.com/vivekdivakarla12/Tennis-Data-Exploration/assets/11672096/02a4d6c9-0fcc-4604-84e2-bbcc380423d3">
 
-GRASS
+Finally, there are key factors that stand out in the grass court matches. First serve points won% has the highest correlation out of any surface, and second serve points won% was by far the lowest. This makes sense with how fast the grass courts play, and how key a good first serve is on the surface. Another important note is that break points faced has the highest negative correlation out of any surface, which also checks out. There are less breaks of serve in each grass court match, so facing the least amount of break points becomes even more crucial. 
 
 <img width="813" alt="Screenshot 2024-01-06 at 4 00 56 PM" src="https://github.com/vivekdivakarla12/Tennis-Data-Exploration/assets/11672096/bb727ac1-3d76-4280-8ba4-53e6e167c6df">
+
+
