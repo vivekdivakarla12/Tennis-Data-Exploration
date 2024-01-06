@@ -32,5 +32,14 @@ The third story I chose was examining the first and second serves of the top 11 
 
 ### Correlation between Features and winning tennis matches
 
-<img width="692" alt="Screenshot 2024-01-06 at 3 24 44 PM" src="https://github.com/vivekdivakarla12/Tennis-Data-Exploration/assets/11672096/ceb3f42e-fb12-4096-9352-dea48bb1dee5">
+After performing the exploratory data analysis in Tableau, I loaded the data into a Pandas dataframe in python to do further analysis. I split each row (which contained a full match) into two rows, with the first row containing the winner and his stats, and the second row containing the loser and their stats. I then created a row called 'match_won', which is a 1 or 0 on whether the player won the match or not. This made it possible to use as a target variable, and calculate correlation coefficients for the feature variables in the dataset. As seen in the graph below, the most important feature was first serve points won%, which is more important than second serve points won%. One feature that I thought would be more important is first serve in%, as if a player gets more first serves in, I believe it greatly improves their chances of holding serve, and therefore winning the match.
 
+<img width="697" alt="Screenshot 2024-01-06 at 3 52 39 PM" src="https://github.com/vivekdivakarla12/Tennis-Data-Exploration/assets/11672096/371da59e-38d6-4545-87f6-c4109121953a">
+
+After viewing the data for all matches, I chose to split the data into three sections, one for each major surface. I then did the same correlation calculations to understand how matches are won on Hard, Clay, and Grass. Compared to all matches, the order of importance is the same for hard courts, but the numbers are slightly different. One statistic that becomes more important is ace%, as the correlation grows from .235 to .269. While this jump may not look like much, the margins between winning and losing a tennis match can be very slim, so the small percentage differences matter. 
+
+<img width="799" alt="Screenshot 2024-01-06 at 3 53 07 PM" src="https://github.com/vivekdivakarla12/Tennis-Data-Exploration/assets/11672096/0a35913b-4427-4aa7-a55c-3add633187c6">
+
+CLAY
+
+<img width="795" alt="Screenshot 2024-01-06 at 3 57 33 PM" src="https://github.com/vivekdivakarla12/Tennis-Data-Exploration/assets/11672096/02a4d6c9-0fcc-4604-84e2-bbcc380423d3">
