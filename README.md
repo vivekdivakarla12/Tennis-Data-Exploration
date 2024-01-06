@@ -28,3 +28,9 @@ Overall, I believe these stories showcase the way the ATP rankings work, and how
 <img width="1052" alt="Screenshot 2024-01-02 at 11 50 03 AM" src="https://github.com/vivekdivakarla12/Tennis-Data-Exploration/assets/11672096/cf1cd77c-e37d-4bd4-92dc-f03fee4e0388">
 
 The third story I chose was examining the first and second serves of the top 11 players of 2023. I created two fields, first serve dominance rating, and second serve delta, which compare the difference in serve stats between the winning player and the losing player for a specific match. Shown in this graph is a box and whisker plot for each player's matches, where you can see the range of outcomes for each player. An interesting insight to take from this graph is that Djokovic, Medvedev, and Sinner, the #1, #3 and #4 players in the world, have the highest median first serve dominance rating, meaning they are creating the biggest differences between their first serves and their opponents. On the other side, Alcaraz and Ruud, who had two of the lowest first serve ratings, had two of the highest median second serve ratings. Especially for Ruud, who won most of his matches on clay, where a dominant first serve is not as effective, taking advantage of rallies on second serves is a key factor to win. When looking at the data quality, there are a few outliers in the dataset, as wins via retirement against injured players can inflate the stats. 
+
+
+### Correlation between Features and winning tennis matches
+
+<img width="692" alt="Screenshot 2024-01-06 at 3 24 44 PM" src="https://github.com/vivekdivakarla12/Tennis-Data-Exploration/assets/11672096/ceb3f42e-fb12-4096-9352-dea48bb1dee5">
+
